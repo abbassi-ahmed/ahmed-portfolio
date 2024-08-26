@@ -18,7 +18,7 @@ function Footer() {
               href="https://github.com/3ibsi69"
               className="text-[#16f2b3]"
             >
-              Abbassi Ahmed
+              Ahmed Abbassi
             </Link>
           </p>
           <div className="flex items-center gap-5">
