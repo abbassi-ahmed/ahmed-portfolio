@@ -12,5 +12,5 @@ export const personalData = {
   linkedIn: "https://www.linkedin.com/in/ahmed-abbassi-/",
   devUsername: "3ibsi",
   resume:
-    "https://drive.google.com/file/d/1LM55Ul-89Vdxke5TeoFPgLGsPDs0IlVT/view?usp=drive_link",
+    "https://drive.google.com/file/d/1RDvuA2pVz18qePr6HVfmIYcxKNWgxBBk/view?usp=sharing",
 };
