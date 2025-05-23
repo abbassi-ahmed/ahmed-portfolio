@@ -86,12 +86,12 @@ export const projectsData = [
     id: 5,
     name: "Photographer's Desktop App (Electron)",
     description:
-      "Built a cross-platform desktop app with Electron, enabling photographers to showcase and manage their work. Developed the frontend with React and backend with NestJS and SQLite3. Included image editing features (filters, custom adjustments), image organization by size and price, and export/email functionality.",
+      "Built a cross-platform desktop app with Electron, enabling photographers to showcase and manage their work. Developed the frontend with React and backend with NestJS and SQLite. Included image editing features (filters, custom adjustments), image organization by size and price, and export/email functionality.",
     tools: [
       "Electron",
       "React",
       "NestJS",
-      "SQLite3",
+      "SQLite",
       "TypeScript",
       "NodeMailer",
     ],
