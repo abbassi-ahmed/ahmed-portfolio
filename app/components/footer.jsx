@@ -15,7 +15,7 @@ function Footer() {
             © Developer Portfolio by{" "}
             <Link
               target="_blank"
-              href="https://github.com/3ibsi69"
+              href="https://github.com/abbassi-ahmed"
               className="text-[#16f2b3]"
             >
               Ahmed Abbassi
@@ -24,7 +24,7 @@ function Footer() {
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
-              href="https://github.com/3ibsi69/ahmed-portfolio"
+              href="https://github.com/abbassi-ahmed/ahmed-portfolio"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <IoStar />
@@ -32,7 +32,7 @@ function Footer() {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/3ibsi69/ahmed-portfolio/fork"
+              href="https://github.com/abbassi-ahmed/ahmed-portfolio/fork"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <CgGitFork />

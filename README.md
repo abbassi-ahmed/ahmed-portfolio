@@ -16,7 +16,7 @@
     <p>If you'd like to run this project locally, follow these steps:</p>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/3ibsi69/ahmed-portfolio.git</code></pre>
+        <pre><code>git clone https://github.com/abbassi-ahmed/ahmed-portfolio.git</code></pre>
         <li>Navigate to the project directory:</li>
         <pre><code>cd ahmed-portfolio</code></pre>
         <li>Install dependencies:</li>
