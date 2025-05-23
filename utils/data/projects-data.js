@@ -6,28 +6,28 @@ import travel from "/public/image/travel.jpg";
 export const projectsData = [
   {
     id: 1,
-    name: "Donation Platform",
+    name: "E-commerce Mobile App",
     description:
-      "I implemented RESTful APIs using Nest.js to enhance backend functionality, ensuring secure and efficient transactions. Collaborating closely with stakeholders, I defined project requirements to align the platform with user needs. Additionally, I developed user profiles and dashboards to track donations and project progress, fostering transparency and engagement.",
+      "Developed a feature-rich mobile e-commerce application using React Native Expo, focusing on seamless shopping experiences, real-time order tracking, and multilingual support. Integrated Firebase for authentication and backend services. Utilized React Query for efficient state and server data management.",
     tools: [
+      "React Native Expo",
+      "NestJS",
+      "Firebase",
+      "React Query",
       "TypeScript",
-      "React",
-      "TypeORM",
-      "Next.js",
-      "Socket.io",
-      "NestJs",
-      "PostgreSQL",
+      "Google Cloud Functions",
     ],
     role: "Full Stack Developer",
     code: "",
     demo: "",
-    image: crefin,
+    image: ayla,
   },
+
   {
     id: 2,
-    name: "Mobile App",
+    name: "Mobile Barber App",
     description:
-      "I spearheaded the development of a mobile app for a barber shop, enabling clients to reserve appointments and providing barbers with the ability to accept or reject reservations. The application was implemented using React Native Expo, ensuring cross-platform compatibility and a seamless user experience. I integrated features allowing clients to view past appointments and barbers to efficiently manage bookings, significantly improving overall business operations. For backend services, I utilized Firebase for authentication, database management, and real-time updates.",
+      "Led the development of a mobile app for a barber shop using React Native Expo. Enabled clients to book appointments and barbers to manage reservations. Integrated Firebase for authentication, real-time updates, and database management, significantly improving operational efficiency and user experience.",
     tools: [
       "React Native Expo",
       "Socket.io",
@@ -46,9 +46,9 @@ export const projectsData = [
     id: 3,
     name: "Language Management System",
     description:
-      "I implemented RESTful APIs using Nest.js to enhance backend functionality, ensuring seamless communication between frontend and backend systems. Collaborating with cross-functional teams, I gathered requirements, designed the system architecture, and delivered a robust and scalable solution. Additionally, I designed and integrated a real-time chat feature within the language management system, facilitating communication and collaboration among users.",
+      "Designed and built a scalable platform to manage language learning resources. Developed RESTful APIs using NestJS and integrated real-time chat with Socket.io. Collaborated with teams to gather requirements and architect a solution enhancing digital learning accessibility.",
     tools: [
-      "NextJS",
+      "Next.js",
       "NestJS",
       "Formik",
       "Bootstrap",
@@ -58,10 +58,47 @@ export const projectsData = [
       "Socket.io",
       "Gemini API",
     ],
-    code: "",
     role: "Full Stack Developer",
+    code: "",
     demo: "",
     image: realEstate,
+  },
+  {
+    id: 4,
+    name: "Donation Platform",
+    description:
+      "I implemented RESTful APIs using Nest.js to enhance backend functionality, ensuring secure and efficient transactions. Collaborated closely with stakeholders to define requirements, developed user profiles, and built dashboards to track donations and project progress—fostering transparency and engagement.",
+    tools: [
+      "TypeScript",
+      "React",
+      "TypeORM",
+      "Next.js",
+      "Socket.io",
+      "NestJS",
+      "PostgreSQL",
+    ],
+    role: "Full Stack Developer",
+    code: "",
+    demo: "",
+    image: crefin,
+  },
+  {
+    id: 5,
+    name: "Photographer's Desktop App (Electron)",
+    description:
+      "Built a cross-platform desktop app with Electron, enabling photographers to showcase and manage their work. Developed the frontend with React and backend with NestJS and SQLite3. Included image editing features (filters, custom adjustments), image organization by size and price, and export/email functionality.",
+    tools: [
+      "Electron",
+      "React",
+      "NestJS",
+      "SQLite3",
+      "TypeScript",
+      "NodeMailer",
+    ],
+    role: "Full Stack Developer",
+    code: "",
+    demo: "",
+    image: ayla,
   },
 ];
 
